@@ -19,14 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="postage.cpp" />
-    <ClCompile Include="zeno.cpp" />
+    <ClCompile Include="do_while.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{86222cd1-575a-46a5-8e5e-f38bdc89afec}</ProjectGuid>
-    <RootNamespace>My067逗号运算符</RootNamespace>
+    <ProjectGuid>{5c16456f-824e-49f9-9d0c-8beec0ecd4b2}</ProjectGuid>
+    <RootNamespace>My068出口条件循环dowhile</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

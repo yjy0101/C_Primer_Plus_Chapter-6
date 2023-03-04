@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="postage.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="zeno.cpp">
+    <ClCompile Include="字符增值打印.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
